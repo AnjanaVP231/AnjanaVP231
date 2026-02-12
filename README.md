@@ -4,7 +4,7 @@
 <p align="center">
 🎓 MCA Student <br>
 💻 Python • Django • Machine Learning • Data Science • Data Analytics <br>
-🚀 AI | Web Development | Real Time Systems
+🚀 AI | Web Development | Real Time Systems | Data Analysis 
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🌸 About Me
 - 💡 Passionate about solving real-world problems  
 - 🤖 Interested in AI & Machine Learning  
-- 🌱 Currently improving Data Analytics & Backend Development  
+- 🌱 Currently improving Data Analytics & full stack Development  
 - ⭐ Always learning new technologies  
 
 ---
@@ -43,6 +43,10 @@
 ### 🤖 Data Science & Data Analytics 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,r" />
+<img src="https://cdn.simpleicons.org/tableau" height="40"/>
+<img src="https://cdn.simpleicons.org/powerbi" height="40"/>
+<img src="https://cdn.simpleicons.org/looker" height="40"/>
+<img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 </p>
 
 <p align="center">
@@ -60,7 +64,7 @@ NumPy • Pandas • Matplotlib
 
 ## 🔥 Featured Projects
 
-### 🟢 Drowsiness Detection System
+### 🟢 Drowsiness Detection System - WAKEUP 
 🚗 Detects driver drowsiness using Computer Vision  
 🛠 Python • OpenCV • Django  
 
