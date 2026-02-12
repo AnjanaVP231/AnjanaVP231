@@ -43,12 +43,11 @@
 ### 🤖 Data Science & Data Analytics 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,r" />
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
 <img src="https://cdn.simpleicons.org/looker" height="40"/>
 <img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 </p>
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 <p align="center">
 NumPy • Pandas • Matplotlib
 </p>
