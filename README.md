@@ -1,65 +1,104 @@
-## Hi there 👋# Hi 👋 I'm Anjana V P
+<!-- Banner -->
+<h1 align="center">✨ Hi, I'm Anjana V P ✨</h1>
 
-🎓 MCA Student  
-💻 Python | Django | Machine Learning  | Data science | Data Analytics 
-🚀 Interested in AI, Web Development & Real Time Systems  
+<p align="center">
+🎓 MCA Student <br>
+💻 Python • Django • Machine Learning • Data Science • Data Analytics <br>
+🚀 AI | Web Development | Real Time Systems
+</p>
 
 ---
 
-## 🔥 Projects
-
-🟢 Drowsiness Detection System  
-• Detects driver drowsiness using computer vision  
-• Built using Python, OpenCV, Django  
-
-🟢 IRIS Classification  
-• Machine learning model for flower classification  
+## 🌸 About Me
+- 💡 Passionate about solving real-world problems  
+- 🤖 Interested in AI & Machine Learning  
+- 🌱 Currently improving Data Analytics & Backend Development  
+- ⭐ Always learning new technologies  
 
 ---
 
 ## 🛠 Tech Stack
-- Python
-- Django
-- OpenCV
-- HTML / CSS
-- SQL
-- Git & GitHub
+
+### 👩‍💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,r" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+---
+
+### 🗄 Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🤖 Machine Learning & Data Science
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+NumPy • Pandas • Matplotlib
+</p>
+
+---
+
+### ⚙ Dev Tools & OS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🟢 Drowsiness Detection System
+🚗 Detects driver drowsiness using Computer Vision  
+🛠 Python • OpenCV • Django  
+
+---
+
+### 🌸 IRIS Classification
+🌼 Machine Learning model for flower classification  
 
 ---
 
 ## 📜 Certifications
+🎓 **Google Data Analytics Professional Certificate**
 
-🎓 Google Data Analytics Professional Certificate 
-
-Skills Gained:
-- Data Cleaning
-- Data Analysis
-- SQL
-- Excel & Spreadsheets
-- Data Visualization
-- R Programming
-- Business Data Insights
-
----
-
-## 📫 Contact Me
-📧 anjanavp231@gmail.com  
+### Skills Gained
+✨ Data Cleaning  
+✨ Data Analysis  
+✨ SQL  
+✨ Excel & Spreadsheets  
+✨ Data Visualization  
+✨ R Programming  
+✨ Business Data Insights  
 
 ---
 
-⭐ Always learning new technologies
+## 📊 GitHub Stats
 
-<!--
-**AnjanaVP231/AnjanaVP231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+📧 **anjanavp231@gmail.com**
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
