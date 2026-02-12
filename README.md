@@ -9,14 +9,6 @@
 
 ---
 
-## 🌸 About Me
-- 💡 Passionate about solving real-world problems  
-- 🤖 Interested in AI & Machine Learning  
-- 🌱 Currently improving Data Analytics & full stack Development  
-- ⭐ Always learning new technologies  
-
----
-
 ## 🛠 Tech Stack
 
 ### 👩‍💻 Programming Languages
