@@ -21,7 +21,7 @@
 
 ### 👩‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,r" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 </p>
 
 ---
@@ -40,9 +40,9 @@
 
 ---
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Data Science & Data Analytics 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,r" />
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ NumPy • Pandas • Matplotlib
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaVP231&theme=tokyonight" height="165"/>
 </p>
 
 ---
