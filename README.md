@@ -16,21 +16,18 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 </p>
 
----
 
 ### 🎨 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
----
 
 ### 🗄 Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
----
 
 ### 🤖 Data Science & Data Analytics 
 <p align="center">
@@ -44,7 +41,6 @@
 NumPy • Pandas • Matplotlib
 </p>
 
----
 
 ### ⚙ Dev Tools & OS
 <p align="center">
