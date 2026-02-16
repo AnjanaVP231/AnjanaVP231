@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack
 
 ### 👩‍💻 Programming Languages
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 </p>
 
