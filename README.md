@@ -18,32 +18,32 @@
 
 
 ### 🎨 Frontend
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 
 ### 🗄 Database
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 
 ### 🤖 Data Science & Data Analytics 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python,r" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
 <img src="https://cdn.simpleicons.org/looker" height="40"/>
 <img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 </p>
 
-<p align="center">
+<p>
 NumPy • Pandas • Matplotlib
 </p>
 
 
 ### ⚙ Dev Tools & OS
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
 
