@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaVP231&theme=tokyonight" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaVP231&theme=tokyonight" height="180"/>
 </p>
 
 ---
