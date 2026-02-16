@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">✨ Hi, I'm Anjana V P ✨</h1>
+<h1 align="center">✨ Hi, I'm Anjana ✨</h1>
 
 <p align="center">
 🎓 MCA Student <br>
