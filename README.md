@@ -64,7 +64,6 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaVP231&theme=tokyonight" height="180"/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=AnjanaVP231&color=blue)
 </p>
 
 ---
