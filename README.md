@@ -33,15 +33,15 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🟢 Drowsiness Detection System - WAKEUP 
+### Drowsiness Detection System - WAKEUP 
 🚗 Detects driver drowsiness using Computer Vision  
 🛠 Python • OpenCV • Django  
 
 ---
 
-### 🌸 IRIS Classification
+###  IRIS Classification
 🌼 Machine Learning model for flower classification  
 
 ---
