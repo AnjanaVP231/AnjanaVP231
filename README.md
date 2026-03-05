@@ -10,7 +10,7 @@
 ---
 
 ## 🛠 Tech Stack
-<p>
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -22,19 +22,8 @@
 </p>
 
 
----
-
 ## 📜 Certifications
 🎓 **Google Data Analytics Professional Certificate**
-
-### Skills Gained
-✨ Data Cleaning  
-✨ Data Analysis  
-✨ SQL  
-✨ Excel & Spreadsheets  
-✨ Data Visualization  
-✨ R Programming  
-✨ Business Data Insights  
 
 ---
 
