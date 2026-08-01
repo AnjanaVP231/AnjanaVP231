@@ -19,8 +19,7 @@
 <img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
-
- <p align="center">
+<div align="center">
 ## 📜 Certifications
 🎓 **Google Data Analytics Professional Certificate**
 
@@ -41,9 +40,9 @@
 
 ## 🌐 Connect With Me
 📧 **anjanavp231@gmail.com**
-</p> 
----
 
+---
+</div>
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
