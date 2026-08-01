@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-## 🛠 Tech Stack
+🛠 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/> </p>
