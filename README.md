@@ -5,7 +5,7 @@
 <p align="center"> 
 🚀 AI | Web Development | Real Time Systems | Data Analysis 💻
 </p>
-
+<div align="center">
 ## 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
@@ -19,7 +19,7 @@
 <img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
-<div align="center">
+
 ## 📜 Certifications
 🎓 **Google Data Analytics Professional Certificate**
 
