@@ -31,11 +31,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnjanaVP231&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaVP231&layout=compact&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjanaVP231&theme=tokyo-night)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AnjanaVP231&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=AnjanaVP231&color=blue)
 
