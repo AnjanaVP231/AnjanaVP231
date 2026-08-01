@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
 
-
+<p align="center"> 
 ## 📜 Certifications
 🎓 **Google Data Analytics Professional Certificate**
 
@@ -41,7 +41,7 @@
 
 ## 🌐 Connect With Me
 📧 **anjanavp231@gmail.com**
-
+<p align="center"> 
 ---
 
 <p align="center">
