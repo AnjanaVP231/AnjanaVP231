@@ -7,13 +7,14 @@
 </p>
 
 ## 🛠 Tech Stack
-<p align="centre">.
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />. </p>
 <p align="centre">
-<img src="https://skillicons.dev/icons?i=python,r" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/> </p>
+  <p align="centre">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,r" /> </p>
+<p align="centre">
 <img src="https://cdn.simpleicons.org/looker" height="40"/>
 <img src="https://cdn.simpleicons.org/rstudioide" height="40"/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
